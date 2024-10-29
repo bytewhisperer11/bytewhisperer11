@@ -15,6 +15,9 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Principles-8A2BE2?style=for-the-badge&logo=codeigniter&logoColor=white)
 
+## 📈 GitHub Stats
+
+![Vishal Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalsoni&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal563)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal563&layout=compact)
 
@@ -37,9 +40,6 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 - [**Project 3: Microservices Backend**](https://github.com/yourusername/project3)  
   *A collection of microservices powered by Docker, Azure, and Kubernetes, emphasizing load balancing and high availability.*
 
-## 📈 GitHub Stats
-
-![Vishal Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalsoni&show_icons=true&theme=dark)
 
 ## 🔗 Connect with Me
 
