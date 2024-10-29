@@ -50,7 +50,7 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 
 ### API Testing & Development
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-%234B4B4B.svg?style=for-the-badge&logo=insomnia&logoColor=blue)
+![Insomnia](https://img.shields.io/badge/Insomnia-%234B4B4B.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### Monitoring & Observability
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
