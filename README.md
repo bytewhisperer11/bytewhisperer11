@@ -91,6 +91,20 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
   *A collection of microservices powered by Docker, Azure, and Kubernetes, emphasizing load balancing and high availability.*
 
 
+## 📊 Dynamic Content
+
+### Coding Activity
+![Commit Activity](https://github-readme-stats.vercel.app/api/commits?username=vishal563&count_private=true&theme=radical)
+
+### Current Learning Goals
+- [Learning TypeScript](https://github.com/vishal563/typescript-course)
+- [Exploring AWS Services](https://github.com/vishal563/aws-learning)
+
+### Contribution Streak
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal563&theme=radical)
+
+
+
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/vishal-soni-1b64366b/)
