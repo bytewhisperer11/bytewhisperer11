@@ -18,6 +18,8 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%232B7489.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -36,9 +38,32 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%233232DB.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-%23F7A34B.svg?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23C72A3D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Memcached](https://img.shields.io/badge/Memcached-%233B7B45.svg?style=for-the-badge&logo=memcached&logoColor=white)
+
+### Messaging
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%234A86C7.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### API Testing & Development
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-%234B4B4B.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+
+### Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Netdata](https://img.shields.io/badge/Netdata-%23000000.svg?style=for-the-badge&logo=netdata&logoColor=white)
+
+### Service Mesh
+![Istio](https://img.shields.io/badge/Istio-%23000000.svg?style=for-the-badge&logo=istio&logoColor=white)
+
 ### Version Control & Collaboration
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 ## 📈 GitHub Stats
