@@ -4,17 +4,6 @@ I'm a seasoned **Software Engineer** with over 6 years of experience, specializi
 
 I'm currently open to remote job opportunities worldwide and am actively expanding my portfolio of **high-performance backend projects**. 
 
-## 🛠 Skills and Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-4a1ebd?style=for-the-badge&logo=pulumi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Principles-8A2BE2?style=for-the-badge&logo=codeigniter&logoColor=white)
-
 ## 🛠️ Workflow & Tools
 
 ### Languages & Frameworks
@@ -24,8 +13,16 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-%237F45EC.svg?style=for-the-badge&logo=pulumi&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Argo](https://img.shields.io/badge/Argo-%23E01F65.svg?style=for-the-badge&logo=argo&logoColor=white)
+
+### CI/CD
+![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-%23343434.svg?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
