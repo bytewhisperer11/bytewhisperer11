@@ -65,6 +65,8 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+![Skills Pie Chart](https://img.shields.io/badge/skills%20chart-blue?style=for-the-badge&logo=chart.js&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
@@ -89,19 +91,6 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 
 - [**Project 3: Microservices Backend**](https://github.com/yourusername/project3)  
   *A collection of microservices powered by Docker, Azure, and Kubernetes, emphasizing load balancing and high availability.*
-
-
-## 📊 Dynamic Content
-
-### Coding Activity
-![Commit Activity](https://github-readme-stats.vercel.app/api/commits?username=vishal563&count_private=true&theme=radical)
-
-### Current Learning Goals
-- [Learning TypeScript](https://github.com/vishal563/typescript-course)
-- [Exploring AWS Services](https://github.com/vishal563/aws-learning)
-
-### Contribution Streak
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal563&theme=radical)
 
 
 
