@@ -15,6 +15,10 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Principles-8A2BE2?style=for-the-badge&logo=codeigniter&logoColor=white)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal563)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal563&layout=compact)
+
+
 ## 🔍 About Me
 
 - 🌐 Open to job opportunities worldwide 🌎
