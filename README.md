@@ -19,7 +19,7 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 
 ![Vishal Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalsoni&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal563)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal563&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal563&layout=compact&langs_count=6)
 
 
 ## 🔍 About Me
