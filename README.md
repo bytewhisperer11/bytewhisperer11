@@ -72,6 +72,19 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal563)
 
 
+**Skills**: 
+- AWS 
+- Kubernetes 
+- Docker 
+- Terraform 
+- Pulumi 
+- GitLab 
+- CircleCI 
+- JavaScript 
+- Python 
+- TypeScript 
+
+
 ## 🔍 About Me
 
 - 🌐 Open to job opportunities worldwide 🌎
