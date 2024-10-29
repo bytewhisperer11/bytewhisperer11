@@ -93,6 +93,8 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
   *A collection of microservices powered by Docker, Azure, and Kubernetes, emphasizing load balancing and high availability.*
 
 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1,234-blue?style=for-the-badge&logo=github)
+
 
 ## 🔗 Connect with Me
 
