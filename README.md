@@ -4,6 +4,7 @@ I'm a seasoned **Software Engineer** with over 6 years of experience, specializi
 
 I'm currently open to remote job opportunities worldwide and am actively expanding my portfolio of **high-performance backend projects**. 
 
+
 ## 🚀 Skills
 
 - **Programming Languages**: Proficient in JavaScript (ES6+), Python (Flask, Django), TypeScript, SQL (PostgreSQL, MySQL)
@@ -11,6 +12,7 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 - **Infrastructure as Code (IaC)**: Strong proficiency in Pulumi and Terraform for automated infrastructure provisioning; experience with AWS CloudFormation for templating.
 - **Containerization & Orchestration**: Advanced knowledge of Docker for containerization, Kubernetes for orchestration, Argo CD for GitOps workflows, and Podman for managing container lifecycles.
 - **API Development**: Experienced in designing and developing RESTful APIs and GraphQL endpoints, utilizing API Gateway for routing and management.
+
 
 ## 🛠️ Workflow & Tools
 
@@ -70,19 +72,6 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 
 ![Vishal Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalsoni&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal563)
-
-
-**Skills**: 
-- AWS 
-- Kubernetes 
-- Docker 
-- Terraform 
-- Pulumi 
-- GitLab 
-- CircleCI 
-- JavaScript 
-- Python 
-- TypeScript 
 
 
 ## 🔍 About Me
