@@ -4,6 +4,14 @@ I'm a seasoned **Software Engineer** with over 6 years of experience, specializi
 
 I'm currently open to remote job opportunities worldwide and am actively expanding my portfolio of **high-performance backend projects**. 
 
+## 🚀 Skills
+
+- **Programming Languages**: Proficient in JavaScript (ES6+), Python (Flask, Django), TypeScript, SQL (PostgreSQL, MySQL)
+- **Cloud Architecture**: Expertise in AWS services including Lambda, EC2, S3, and managed Kubernetes with EKS; skilled in Azure cloud solutions using AKS.
+- **Infrastructure as Code (IaC)**: Strong proficiency in Pulumi and Terraform for automated infrastructure provisioning; experience with AWS CloudFormation for templating.
+- **Containerization & Orchestration**: Advanced knowledge of Docker for containerization, Kubernetes for orchestration, Argo CD for GitOps workflows, and Podman for managing container lifecycles.
+- **API Development**: Experienced in designing and developing RESTful APIs and GraphQL endpoints, utilizing API Gateway for routing and management.
+
 ## 🛠️ Workflow & Tools
 
 ### Languages & Frameworks
