@@ -63,7 +63,6 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![Istio](https://img.shields.io/badge/Istio-%23000000.svg?style=for-the-badge&logo=istio&logoColor=white)
 
 ### Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
