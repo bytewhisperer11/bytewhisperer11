@@ -80,25 +80,8 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 - 📈 Striving to make impactful contributions with scalable solutions
 - 🌱 Currently learning advanced TypeScript, OOP, and design patterns 
 
-## 📌 Pinned Projects
-
-- [**Project 1: DevOps Infrastructure**](https://github.com/yourusername/project1)  
-  *An automated cloud infrastructure using Pulumi, AWS, and Kubernetes, with a focus on scalability and resilience.*
-
-- [**Project 2: Video Management System**](https://github.com/yourusername/project2)  
-  *A real-time video streaming management system built with Python, Flask, and React, optimized for low latency.*
-
-- [**Project 3: Microservices Backend**](https://github.com/yourusername/project3)  
-  *A collection of microservices powered by Docker, Azure, and Kubernetes, emphasizing load balancing and high availability.*
-
-
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue?style=for-the-badge&logo=github)
 
-
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/vishal-soni-1b64366b/)
-- [Portfolio](https://yourwebsite.com)
 
 ---
 
