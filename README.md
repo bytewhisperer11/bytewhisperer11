@@ -69,7 +69,7 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 
 ## 📈 GitHub Stats
 
-![Vishal Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalsoni&show_icons=true&theme=dark)
+![Vishal Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bytewhisperer11&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bytewhisperer11)
 
 
