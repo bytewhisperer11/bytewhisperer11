@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Vishal Soni
 
-I'm a seasoned **Software Engineer** with over 6 years of experience, specializing in **backend development**, **DevOps**, and **cloud infrastructure**. I bring expertise in tools like **Docker**, **Kubernetes**, **Pulumi**, and cloud platforms like **AWS** and **Azure**. My development approach is grounded in **Object-Oriented Programming (OOP)** principles to ensure scalable and maintainable code.
+I'm a seasoned **Software Engineer** with over 6 years of experience, specializing in **backend development**, **DevOps**, and **cloud infrastructure**. I bring expertise in tools like **Docker**, **Kubernetes**, **Pulumi**, **Terraform**, and cloud platforms like **AWS** and **Azure**. My development approach is grounded in **Object-Oriented Programming (OOP)** principles to ensure scalable and maintainable code.
 
 I'm currently open to remote job opportunities worldwide and am actively expanding my portfolio of **high-performance backend projects**. 
 
