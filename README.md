@@ -35,6 +35,8 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ### CI/CD
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-%23343434.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23000000.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 ### IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
