@@ -4,7 +4,6 @@ I'm a seasoned **Software Engineer** with over 6 years of experience, specializi
 
 I'm currently open to remote job opportunities worldwide and am actively expanding my portfolio of **high-performance backend projects**. 
 
-
 ## 🚀 Skills
 
 - **Programming Languages**: Proficient in JavaScript (ES6+), Python (Flask, Django), TypeScript, SQL (PostgreSQL, MySQL)
@@ -12,7 +11,6 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 - **Infrastructure as Code (IaC)**: Strong proficiency in Pulumi and Terraform for automated infrastructure provisioning; experience with AWS CloudFormation for templating.
 - **Containerization & Orchestration**: Advanced knowledge of Docker for containerization, Kubernetes for orchestration, Argo CD for GitOps workflows, and Podman for managing container lifecycles.
 - **API Development**: Experienced in designing and developing RESTful APIs and GraphQL endpoints, utilizing API Gateway for routing and management.
-
 
 ## 🛠️ Workflow & Tools
 
@@ -32,11 +30,15 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Argo](https://img.shields.io/badge/Argo-%23E01F65.svg?style=for-the-badge&logo=argo&logoColor=white)
 
+### AI & Machine Learning
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23FFD700.svg?style=for-the-badge&logo=python&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23A2D7F2.svg?style=for-the-badge&logo=python&logoColor=black)
+
 ### CI/CD
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-%23343434.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23000000.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-
 
 ### IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -67,7 +69,6 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
 ## 📈 GitHub Stats
 
 ![Vishal Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bytewhisperer11&show_icons=true&theme=dark)
@@ -78,7 +79,7 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 - 🌐 Open to job opportunities worldwide 🌎
 - 🧩 Enthusiast of modern cloud architectures, microservices, and object-oriented design
 - 📈 Striving to make impactful contributions with scalable solutions
-- 🌱 Currently learning advanced TypeScript, OOP, and design patterns 
+- 🌱 Currently learning advanced TypeScript, OOP, design patterns, and exploring **Hugging Face**, **LangChain**, and **LangGraph** for AI & NLP model development
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbytewhisperer11&s=40&c=00ff00&bg=00000000&no=4&ff=digi&tb=&ta=)
 
