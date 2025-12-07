@@ -48,7 +48,6 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-%233232DB.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![RDS](https://img.shields.io/badge/Amazon%20RDS-%23F7A34B.svg?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23C72A3D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Memcached](https://img.shields.io/badge/Memcached-%233B7B45.svg?style=for-the-badge&logo=memcached&logoColor=white)
 
 ### Messaging
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%234A86C7.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
