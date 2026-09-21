@@ -1,10 +1,10 @@
-# Hello! 👋 I'm Vishal Soni
+# Hello! I'm Vishal Soni
 
 I'm a seasoned **Software Engineer** with over 7+ years of experience, specializing in **backend development**, **DevOps**, and **cloud infrastructure**. I bring expertise in tools like **Docker**, **Kubernetes**, **Pulumi**, **Terraform**, and cloud platforms like **AWS** and **Azure**. My development approach is grounded in **Object-Oriented Programming (OOP)** principles to ensure scalable and maintainable code.
 
 I'm currently open to remote job opportunities worldwide and am actively expanding my portfolio of **high-performance backend projects**. 
 
-## 🚀 Skills
+## Skills
 
 - **Programming Languages**: Proficient inPython (Flask, FastAPI), TypeScript
 - **Cloud Architecture**: Expertise in AWS services including Lambda, EC2, S3, and managed Kubernetes with EKS; skilled in Azure cloud solutions using AKS.
@@ -12,7 +12,7 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 - **Containerization & Orchestration**: Advanced knowledge of Docker for containerization, Kubernetes for orchestration, Argo CD for GitOps workflows, and Podman for managing container lifecycles.
 - **API Development**: Experienced in designing and developing RESTful APIs and GraphQL endpoints, utilizing API Gateway for routing and management.
 
-## 🛠️ Workflow & Tools
+## Workflow & Tools
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,7 +58,7 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 🔍 About Me
+## About Me
 
 - 🌐 Open to job opportunities worldwide 🌎
 - 🧩 Enthusiast of modern cloud architectures, microservices, and object-oriented design
