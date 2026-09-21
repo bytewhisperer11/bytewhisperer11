@@ -65,8 +65,6 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 - 📈 Striving to make impactful contributions with scalable solutions
 - 🌱 Currently learning advanced TypeScript, OOP, design patterns, and exploring **Hugging Face**, **LangChain**, and **LangGraph** for AI & NLP model development
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbytewhisperer11&s=40&c=00ff00&bg=00000000&no=4&ff=digi&tb=&ta=)
-
 ---
 
 Looking forward to connecting and collaborating!
