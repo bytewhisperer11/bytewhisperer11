@@ -58,10 +58,6 @@ I'm currently open to remote job opportunities worldwide and am actively expandi
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Vishal Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bytewhisperer11&show_icons=true&theme=dark)
-
 ## 🔍 About Me
 
 - 🌐 Open to job opportunities worldwide 🌎
